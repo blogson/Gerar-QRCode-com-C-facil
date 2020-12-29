@@ -19,4 +19,4 @@ pictureBox1.Image = qrCodeImage;
 ```
 
 ## Código completo para download
-Este material está disponível no Blogson, leia o artigo - [Como gerar um QR Code com C# de forma simples, apenas 5 linhas]https://www.blogson.com.br/como-gerar-um-qr-code-com-c-de-forma-simples-apenas-5-linhas/
+Este material está disponível no Blogson, leia o artigo - [Como gerar um QR Code com C# de forma simples, apenas 5 linhas](https://www.blogson.com.br/como-gerar-um-qr-code-com-c-de-forma-simples-apenas-5-linhas/)
